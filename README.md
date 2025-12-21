@@ -48,7 +48,7 @@ Pyramid 是一个基于 **Python 爬虫 + Web 服务** 的数据源框架，
 
 ## 🚀 基本使用说明
 
-### 1️⃣ 环境要求
+### 1️⃣ 环境与依赖
 
 - Python 3.8+
 - 已开启 **存储权限**（非常重要）
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-### 2️⃣ 爬虫写法
+### 2️⃣ 写法
 
 [Python爬虫写法参考spider.md](https://github.com/lm317379829/PyramidStore/blob/main/spider.md)
 
